@@ -4,7 +4,7 @@ description: "Электроника боюнча видеосабактар."
 username: kalysosmonov
 githubname: kalys
 baseurl: ""
-url: "http://elektronika101.com"
+url: "http://e101.osmonov.com"
 
 # Build settings
 markdown: kramdown
